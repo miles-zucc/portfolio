@@ -1,0 +1,44 @@
+{
+  "carousel": [
+    {
+      "type": "image",
+      "src": "images/thumbnails/research.png",
+      "id": 0
+    },
+    {
+      "type": "image",
+      "src": "images/thumbnails/3d.jpg",
+      "id": 1
+    },
+    {
+      "type": "image",
+      "src": "images/thumbnails/zine.png",
+      "id": 2
+    },
+    {
+      "type": "image",
+      "src": "images/thumbnails/cube.png",
+      "id": 3
+    },
+    {
+      "type": "image",
+      "src": "images/thumbnails/hunts.png",
+      "id": 4
+    },
+    {
+      "type": "video",
+      "src": "images/thumbnails/acw.mp4",
+      "id": 5
+    },
+    {
+      "type": "image",
+      "src": "images/thumbnails/arriere.png",
+      "id": 6
+    },
+    {
+      "type": "video",
+      "src": "images/thumbnails/cyber-new.mp4",
+      "id": 7
+    }
+  ]
+}
